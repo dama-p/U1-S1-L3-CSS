@@ -11,19 +11,21 @@ a {
 #logo {
   margin-top: 20px;
   margin-bottom: 20px;
+  max-width: 250px;
 }
 
 nav {
   background-color: #fdfbf1;
-  padding: 30px 0px 30px 0px;
+  padding: 20px 0px 20px 0px;
   border-top: 2px solid #ffd877;
-  font-size: 20px;
+  font-size: 14px;
   color: #004d4c;
 }
 
 main {
-  max-width: 50vw;
-  text-align: center;
+  max-width: 700px;
+  text-align: left;
+  text-align: justify;
   margin-top: 8vh;
   margin-inline: auto;
   color: #333333;
@@ -31,6 +33,7 @@ main {
 
 h1 {
   margin: 2rem;
+  text-align: center;
 }
 
 h2 {
@@ -46,12 +49,14 @@ h3 {
 }
 
 .food {
+  text-align: center;
   border-radius: 20px;
   margin: 10px 0px 10px 0px;
 }
 
 .img-credits {
   color: #999999;
+  text-align: center;
 }
 
 .featured {
