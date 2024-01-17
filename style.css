@@ -71,10 +71,6 @@ section ul li {
   line-height: 2.5;
 }
 
-section ol li {
-  text-align: left;
-}
-
 footer {
   max-width: 50vw;
   text-align: left;
